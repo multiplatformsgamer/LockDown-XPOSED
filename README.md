@@ -1,5 +1,9 @@
 LockDown - XPOSED
 =========
+**NOTE**
+android 4.4 pin码解锁，hock 解锁。call 解锁。
+xposed的文件存储。
+xposed 中存储中心的使用。
 
 Lockdown - XPOSED is a module for the Xposed framework for Android.
 LockDown allows you to add multiple PINs to unlock your phone. Every PIN is a profile and you can restrict certain apps from launching when using a certain profile. You can even choose to hide the apps from the drawer completely so the user will not know if they are locked out.
